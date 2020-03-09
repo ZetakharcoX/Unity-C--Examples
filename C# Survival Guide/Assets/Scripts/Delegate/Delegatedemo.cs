@@ -35,6 +35,7 @@ public class Delegatedemo : MonoBehaviour
     public void Score(int s)
     {
         Debug.Log("Total Score "+s);
+        Debug.Lo("Edited In Github");
     }
 
     public void Lives(int l)
